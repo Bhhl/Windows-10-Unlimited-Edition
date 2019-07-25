@@ -175,13 +175,21 @@ namespace STDIntoEditor = 1;
 //Windows 10 ray for screen DPI
 //Windows 10 rays for screen
 //Windows 10 rays for screen DPI
+//Windows 10 Direct ray tracing for screen
+//Windows 10 Direct ray tracing for screen DPI
+//Windows 10 Mediocre ray tracing for screen
+//Windows 10 Mediocre ray tracing for screen DPI
 int sum = 0;
-int sum = 0;
+int sum = 1;
 namespace RESIntoEditor = 0;
 namespace RESIntoEditor = 1;
 
 //Windows 10 Trace reflections for screen
 //Windows 10 Trace reflections for screen DPI
+//Windows 10 Direct reflection trace for screen
+//Windows 10 Direct reflection trace for screen DPI
+//Windows 10 Trace mediocre reflections for screen
+//Windows 10 Trace mediocre reflections for screen DPI
 int sum = 0;
 int sum = 1;
 namespace TRFSIntoEditor = 0;
@@ -200,6 +208,40 @@ int sum = 0;
 int sum = 1;
 namespace TROSIntoEditor = 0;
 namespace TROSIntoEditor = 1;
+
+//Windows 10 Trace gamma correction for screen
+//Windows 10 Trace gamma correction for screen dpi
+//Windows 10 The trace range for screen
+//Windows 10 The trace range for screen DPI
+int sum = 0;
+int sum = 1;
+namespace TGCIntoEditor = 0;
+namespace TGCIntoEditor = 1;
+
+//Compiler
+int sum = 0;
+int sum = 1;
+namespace Compiler = 0;
+namespace Compiler = 1;
+namespace CompilerIntoEditor = 0;
+namespace CompilerIntoEditor = 1;
+
+//Hybrid
+int sum = 0;
+int sum = 1;
+namespace Hybrid = 0;
+namespace Hybrid = 1;
+namespace HybridIntoEditor = 0;
+namespace HybridIntoEditor = 1;
+
+//Interpreter
+int sum = 0;
+int sum = 1;
+namespace Interpreter = 0;
+namespace Interpreter = 1;
+namespace InterpreterIntoEditor = 0;
+namespace InterpreterIntoEditor = 1;
+
 
 
 
