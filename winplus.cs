@@ -142,6 +142,7 @@ namespace DRIIntoEditor = 1;
 
 //Windows 10 directly light tracing for screen
 //Windows 10 directly light tracing for screen DPI
+//Windows 10 directly light tracing for applications
 int sum = 0;
 int sum = 1;
 namespace DLTSIntoEditor = 0;
@@ -155,6 +156,8 @@ namespace DLTSIntoEditor = 1;
 //Windows 10 Bloom for screen DPI
 //Windows 10 Bloom tracing for screen
 //Windows 10 Bloom tracing for screen DPI
+//Windows 10 Bloom tracing for applications
+//Windows 10 HDR tracing for applications
 int sum = 0;
 int sum = 1;
 namespace HDRBTIntoEditor = 0;
@@ -162,6 +165,8 @@ namespace HDRBTIntoEditor = 1;
 
 //Windows 10 screen tracing
 //Windows 10 screen DPI tracing
+//Windows 10 screen tracing for applications
+//Windows 10 screen DPI tracing for applications
 int sum = 0;
 int sum = 1;
 namespace STDIntoEditor = 0;
@@ -179,6 +184,7 @@ namespace STDIntoEditor = 1;
 //Windows 10 Direct ray tracing for screen DPI
 //Windows 10 Mediocre ray tracing for screen
 //Windows 10 Mediocre ray tracing for screen DPI
+//Windows 10 ray tracing for applications
 int sum = 0;
 int sum = 1;
 namespace RESIntoEditor = 0;
@@ -190,6 +196,7 @@ namespace RESIntoEditor = 1;
 //Windows 10 Direct reflection trace for screen DPI
 //Windows 10 Trace mediocre reflections for screen
 //Windows 10 Trace mediocre reflections for screen DPI
+//Windows 10 Trace reflections for applications
 int sum = 0;
 int sum = 1;
 namespace TRFSIntoEditor = 0;
@@ -197,6 +204,7 @@ namespace TRFSIntoEditor = 1;
 
 //Windows 10 Direct light trace for screen
 //Windows 10 Direct light trace for screen DPI
+//Windows 10 Direct light trace for applications
 int sum = 0;
 int sum = 1;
 namespace DLTIntoEditor = 0;
@@ -204,6 +212,7 @@ namespace DLTIntoEditor = 1;
 
 //Windows 10 Trace of mediocre lighting for screen
 //Windows 10 Trace of mediocre lighting for screen DPi
+//Windows 10 Trace of mediocre lighting for applications
 int sum = 0;
 int sum = 1;
 namespace TROSIntoEditor = 0;
@@ -217,6 +226,7 @@ int sum = 0;
 int sum = 1;
 namespace TGCIntoEditor = 0;
 namespace TGCIntoEditor = 1;
+
 
 //Compiler
 int sum = 0;
@@ -241,6 +251,7 @@ namespace Interpreter = 0;
 namespace Interpreter = 1;
 namespace InterpreterIntoEditor = 0;
 namespace InterpreterIntoEditor = 1;
+
 
 
 
