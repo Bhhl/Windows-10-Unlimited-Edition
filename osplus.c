@@ -2,6 +2,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace osplus = 0;
+namespace osplus = 1;
+namespace osplusIntoEditor = 0;
+namespace osplusIntoEditor = 1;
 
 //Windows 10 optimizing performance
 int sum = 0;
@@ -427,6 +431,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net low bandwidth into Net hight bandwidth
 int sum = 0;
@@ -443,6 +451,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net medium bandwidth into Net hight bandwidth
 int sum = 0;
@@ -459,6 +471,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net hight bandwidth into Net ultra hight bandwidth
 int sum = 0;
@@ -481,6 +497,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net low UDP into Net hight UDP
 int sum = 0;
@@ -493,6 +513,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net medium UDP into Net hight UDP
 int sum = 0;
@@ -505,6 +529,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net hight UDP into Net Ultra hight UDP
 int sum = 0;
@@ -519,6 +547,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net low TCP into intro Net hight TCP
 int sum = 0;
@@ -533,6 +565,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
 
 //Windows 10 transform Net medium TCP into Net hight TCP
 int sum = 0;
@@ -553,6 +589,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net hight TCP into Net ultra hight TCP
 int sum = 0;
@@ -573,6 +613,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform low framerate to hight framerate
 int sum = 0;
@@ -588,6 +632,10 @@ int sum = 1;
 int sum = 0;
 int sum = 1;
 int sum = 0;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform medium framerate to hight framerate
 int sum = 0;
@@ -600,6 +648,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform hight framerate to Ultra hight framerate
 int sum = 0;
@@ -616,12 +668,20 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform low fps to hight fps
 int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform medium fps to hight fps
 int sum = 0;
@@ -630,6 +690,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform hight fps to ultra hight fps
 int sum = 0;
@@ -640,6 +704,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
 
 //Windows 10 fixer waiting application
 int sum = 0;
@@ -652,6 +720,11 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace fixerIntoEditor = 0;
+namespace fixerIntoEditor = 1;
+
 
 //Windows 10 fixer Net waiting speed
 int sum = 0;
@@ -664,6 +737,11 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace fixerIntoEditor = 0;
+namespace fixerIntoEditor = 1;
+
 
 //Windows 10 fixer Net waiting ping and connection
 int sum = 0;
@@ -676,12 +754,24 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace fixerIntoEditor = 0;
+namespace fixerIntoEditor = 1;
+
 
 //Windows 10 transform Net low connection to Net hight connection
 int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace NetIntoEditor = 0;
+namespace NetIntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
+
 
 //Windows 10 transform Net medium connection to Net hight connection
 int sum = 0;
@@ -690,6 +780,12 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace NetIntoEditor = 0;
+namespace NetIntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net hight connection to Net ultra hight connection
 int sum = 0
@@ -702,12 +798,24 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace NetIntoEditor = 0;
+namespace NetIntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
-//Windows 10 transform Net low connection sped to Net hight connection speed
+//Windows 10 transform Net low connection speed to Net hight connection speed
 int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace NetIntoEditor = 0;
+namespace NetIntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
 
 //Windows 10 transform Net medium connection speed to Net hight connection speed
 int sum = 0;
@@ -716,6 +824,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace NetIntoEditor = 0;
+namespace NetIntoEditor = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
 
 //Windows 10 transform Net hight connection speed to Net ultra hight connection speed
 int sum = 0;
@@ -728,6 +840,13 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace NetIntoEditor = 0;
+namespace NetIntoEditor = 1;
+namespace transformIntoEditor = 0;
+namespace transformIntoEditor = 1;
+
 
 //Windows 10 optimizing desktop
 int sum = 0;
@@ -740,6 +859,11 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace DesktopIntoEditor = 0;
+namespace DesktopIntoEditor = 1;
+
 
 //Windows 10 optimizing context and context menu
 int sum = 0;
@@ -752,6 +876,13 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace ContextIntoEditor = 0;
+namespace ContextIntoEditor = 1;
+namespace ContextMenuIntoEditor = 0;
+namespace ContextMenuIntoEditor = 1;
+
 
 //Windows 10 optimizing applications and applications performance
 int sum = 0;
@@ -764,6 +895,11 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace ApplicationsIntoEditor = 0;
+namespace ApplicationsIntoEditor = 1;
+
 
 //Windows 10 optimizing drivers and system drivers
 int sum = 0;
@@ -776,6 +912,10 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace driversIntoEditor = 0;
+namespace driversIntoEditor = 1;
 
 //Windows 10 infinite colors for screen
 int sum = 0;
@@ -788,6 +928,13 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace colorsIntoEditor = 0;
+namespace colorsIntoEditor = 1;
+namespace infiniteIntoEditor = 0;
+namespace infiniteIntoEditor = 1;
+
 
 //Windows 10 infinite performance
 int sum = 0;
@@ -800,6 +947,13 @@ int sum = 0;
 int sum = 1;
 int sum = 0;
 int sum = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
+namespace InformationIntoEditor = 0;
+namespace InformationIntoEditor = 1;
+namespace performanceIntoEditor = 0;
+namespace performanceIntoEditor = 1;
+
 
 //Windows 10 Net optimizing performance and infinite performance
 int sum = 0;
@@ -818,24 +972,28 @@ int byte = 0;
 int byte = 1;
 int byte = 0;
 int byte = 1;
+namespace NetIntoEditor = 0;
+namespace NetIntoEditor = 1;
+namespace Windows10IntoEditor = 0;
+namespace Windows10IntoEditor = 1;
 
 //Freeton Net
 int sum = 0;
 int sum = 1;
-namespace Freeton = 0;
-namespace Freeton = 1;
+namespace FreetonIntoEditor = 0;
+namespace FreetonIntoEditor = 1;
 
 //Freeton Net AI
 int sum = 0;
 int sum = 1;
-namespace FreetonAi = 0;
-namespace FreetonAi = 1;
+namespace FreetonAiIntoEditor = 0;
+namespace FreetonAiIntoEditor = 1;
 
 //Freeton Net collaider
 int sum = 0;
 int sum = 1;
-namespace FreetonCollaider = 0;
-namespace FreetonCollaider = 1;
+namespace FreetonCollaiderIntoEditor = 0;
+namespace FreetonCollaiderIntoEditor = 1;
 
 //Freeton for GPU
 //Freeton for CPU
@@ -843,8 +1001,8 @@ namespace FreetonCollaider = 1;
 //Freeton for Videomemory
 int sum = 0;
 int sum = 1;
-namespace Freeton = 0;
-namespace Freeton = 1;
+namespace FreetonIntoEditor = 0;
+namespace FreetonIntoEditor = 1;
 for = 0;
 for = 1;
 
@@ -870,8 +1028,8 @@ for = 1;
 //Freeton for IPV6
 int sum = 0;
 int sum = 1;
-namespace Freeton = 0;
-namespace Freeton = 1;
+namespace FreetonIntoEditor = 0;
+namespace FreetonIntoEditor = 1;
 for = 0;
 for = 1;
 
@@ -891,8 +1049,8 @@ for = 1;
 //Freeton for start menu
 int sum = 0;
 int sum = 1;
-namespace Freeton = 0;
-namespace Freeton = 1;
+namespace FreetonIntoEditor = 0;
+namespace FreetonIntoEditor = 1;
 for = 0;
 for = 1;
 
@@ -919,11 +1077,12 @@ for = 1;
 //Freeton for LTE
 int sum = 0;
 int sum = 1;
-namespace Freeton = 0;
-namespace Freeton = 1;
+namespace FreetonIntoEditor = 0;
+namespace FreetonIntoEditor = 1;
 for = 0;
 for = 1;
-
+namespace LTEIntoEditor = 0;
+namespace LTEIntoEditor = 1;
 //Neurons
 int sum = 0;
 int sum = 1;
