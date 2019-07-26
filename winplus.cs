@@ -249,6 +249,18 @@ int sum = 1;
 namespace SHTRIntoEditor = 0;
 namespace SHTRIntoEditor = 1;
 
+//Windows 10 Neutral lighting for applications
+//Windows 10 Neutral lighting for screen
+//Windows 10 Neutral lighting for screen DPI
+//Windows 10 Trace neutral lighting for screen
+//Windows 10 Trace neutral lighting for screen DPI
+//Windows 10 Trace neutral lighting for applications
+int sum = 0;
+int sum = 1;
+namespace TNLLIntoEditor = 0;
+namespace TNLLIntoEditor = 1;
+
+
 //Compiler
 int sum = 0;
 int sum = 1;
