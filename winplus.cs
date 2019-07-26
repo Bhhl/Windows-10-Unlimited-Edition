@@ -227,6 +227,14 @@ int sum = 1;
 namespace TGCIntoEditor = 0;
 namespace TGCIntoEditor = 1;
 
+//Windows 10 lightmass for screen
+//Windows 10 lightmass for screen DPI
+//Windows 10 lightmass for applications
+//Windows 10 lightmass tracing for screen
+//Windows 10 lightmass tracing for screen DPI
+//Windows 10 lightmass tracing for applications
+
+
 
 //Compiler
 int sum = 0;
