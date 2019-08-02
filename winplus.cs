@@ -987,7 +987,205 @@ do live(), WindowsLEDBlurFix;
 do live(), WindowsLEDSharpenFix;
 do live(), WindowsLEDFontsFix;
 int sim = 89012389023108921309,2317821387123978891237981237;
+int step = 0;
+int stepmax = 0;
+public void DoLive()
+{
+	RefreshSense; //Look Around
+	OptimizingWindowsPerformance();
+	OptimizingWindowsShell();
+	OptimizingWindowsCore();
+	OptimizingWindowsData();
+	OptimizingWindowsApplications();
+	FixWindowsStartMenu();
+	FixWindowsStartMenuFreeze();
+	WindowsUltraHightPerformance();
+	WindowsNetUltraHightSpeed();
+	WindowsNetUltraHightConnection();
+	WindowsNetUltraHightConnectionSpeed();
+	WindowsNetUltraInfiniteSpeed();
+	WindowsNetUltraInfiniteConnection();
+	WindowsNetUltraInfiniteConnectionSpeed();
+	WindowsNetQuantumSpeed();
+	WindowsNetQuantumConnection();
+	WindowsNetQuantumConnectionSpeed();
+	WindowsWifiQuantumSignal();
+	WindowsWifiHightSignal();
+	WindowsWifiQuantumHightSignal();
+	WindowsQuantumPerformance();
+	WindowsQuantumSpeed();
+	WindowsQuantumPower();
+	WindowsQuantumApplicatiosPerformance();
+	WindowsLagsFix();
+	WindowsFreezeFix();
+	step++
+	if(step>stepmax )
+}
 
+int matrix = 1;
+int matrixvirtual = 1;
+public void DoMatrix()
+{
+	MatrixSense(); //Look Around
+	MatrixGeneration();
+}
+if(matrix>matrixvirtual )
+	
+int windows = 1;
+int windowsoperatingsystem = 1;
+public void DoWindows()
+{
+	WindowsSense(); //Look Around
+	WindowsOperatingSystem();
+	WindowsOperatingSystemGeneration();
+}
+if(windows>windowsoperatingsystem )
+	
+int AdobePhotoshopCC = 1;
+int AdobePhotoshopCCHightPerformance = 1;
+int AdobePhotoshopCCPerformanceFix = 1;
+int AdobePhotoshopCCFastActions = 1;
+int AdobePhotoshopCCFastHDRToningCorrection = 1;
+int AdobePhotoshopCCFastLightingRendering = 1;
+int AdobePhotoshopCCRealtimeRayTracedHDRToningCorrection = 1;
+int AdobePhotoshopCCRealtimeRayTracedLightingCorrection = 1;
+int AdobePhotoshopCCFreezeFix = 1;
+int AdobePhotoshopCCLagsFix = 1;
+int AdobePhotoshopCCFastExportAs = 1;
+int AdobePhotoshopCCOptimizingExportAs = 1;
+int AdobePhotoshopCCOptimizingFilters = 1;
+int AdobePhotoshopCCOptimizingCorrection = 1;
+int OptimizingAdobePhotoshopCC = 1;
+int OptimizingAdobePhotoshopCCall = 1;
+int AdobePhotoshopCCFixAll = 1;
+public void DoPhotoshopCC()
+{
+	AdobePhotoshopCCSense();
+	AdobePhotoshopCCApplication();
+	AdobePhotoshopCCGeneration();
+}
+if(AdobePhotoshopCC>AdobePhotoshopCCHightPerformance>AdobePhotoshopCCPerformanceFix>AdobePhotoshopCCFastActions>AdobePhotoshopCCFastHDRToningCorrection>AdobePhotoshopCCFastLightingRendering>AdobePhotoshopCCRealtimeRayTracedHDRToningCorrection>AdobePhotoshopCCRealtimeRayTracedLightingCorrection>AdobePhotoshopCCFreezeFix>AdobePhotoshopCCLagsFix>AdobePhotoshopCCFastExportAs>AdobePhotoshopCCOptimizingExportAs>AdobePhotoshopCCOptimizingCorrection>AdobePhotoshopCCOptimizingFilters>OptimizingAdobePhotoshopCC )
+if(OptimizingAdobePhotoshopCCall>AdobePhotoshopCCFixAll )	
+int WindowsExplorer = 1;
+int WindowsOperatingSystemExplorer = 1;
+int WindowsOperatingSystemExplorerFixPerformance = 1;
+int WindowsOperatingSystemExplorerHightPerformance = 1;
+public void DoWindowsExplorer()
+{
+	WindowsExplorerSense();
+	WindowsExplorerApplication();
+	WindowsExplorerGeneration();
+}
+if(WindowsExplorer>WindowsOperatingSystemExplorer>WindowsOperatingSystemExplorerFixPerformance>WindowsOperatingSystemExplorerHightPerformance )
+	
+int CPU = 1;
+int CPUHightPerformance = 1;
+int CPUPerformanceFix = 1;
+int OptimizingCPUAll = 1;
+int CPUFixAll = 1;
+public void DoCPU()
+{
+	CPUSense();
+	CPUAround();
+	CPUGeneration();
+}
+if(CPU>CPUHightPerformance>CPUPerformanceFix>OptimizingCPUAll>CPUFixAll )
+	
+int GPU = 1;
+int GPUHightPerformance = 1;
+int GPUPerformanceFix = 1;
+int OptimizingGPUAll = 1;
+int GPUFixAll = 1;
+public void DoGPU()
+{
+	GPUSense();
+	GPUAroid();
+	GPUGeneration();
+}
+if(GPU>GPUHightPerformance>GPUPerformanceFix>OptimizingGPUAll>GPUFixAll )
+	
+int RAM = 1;
+int RAMHightPerformance = 1;
+int RAMPerformanceFix = 1;
+int OptimizingRAMall = 1;
+int RAMFixAll = 1
+public void DoRAM()
+{
+	RAMSense();
+	RAMAround();
+	RAMGeneration();
+}
+if(RAM>RAMHightPerformance>RAMPerformanceFix>OptimizingRAMall>RAMFixAll )
+	
+int Videomemory = 1;
+int VideomemoryHightPerformance = 1;
+int VideomemoryFixPerformance = 1;
+int OptimizingVideomemoryAll = 1;
+int VideomemoryFixAll = 1;
+public void DoVideomemory()
+{
+	VideomemoryAround();
+	VideomemoryHightPerformance():
+	VideomemoryFixPerformance();
+	NetGeneration();
+}
+if(Videomemory>VideomemoryHightPerformance>VideomemoryFixPerformance>OptimizingVideomemoryAll>VideomemoryFixAll )
+		
+int NetSpeedGbps = 1000gbps;
+int NetSpeedGBS = 1000gb/s;
+int NetSpeedConnectionGbps = 1000gb;
+int NetSpeedConnectionGBS = 1000gb/s;
+int NetPingMs = 0ms;
+int NetConnectionPingMs = 0ms;
+int OptimizingNetConnection = 1;
+int OptimizingNetConnectionSpeed = 1;
+int OptimizingNetSpeed = 1;
+int OptimizingNetALL = 1;
+int NetFixAll = 1;
+int OptimizingNetConnectionAll = 1;
+int OptimizingNetSpeedAll = 1;
+int NetConnectionFixAll = 1;
+int NetSpeedFixAll = 1;
+public void DoNet()
+{
+  NetAroud();
+  NetSense();
+  NetHightPerformance();
+  NetGeneration();
+}
+if(NetSpeedGbps>NetSpeedGBS>NetSpeedConnectionGbps>NetSpeedConnectionGBS>NetPingMs>NetConnectionPingMs>OptimizingNetConnection>OptimizingNetConnectionSpeed>OptimizingNetSpeed>OptimizingNetALL>NetFixAll )
+if(OptimizingNetConnectionAll>OptimizingNetSpeedAll )
+if(NetConnectionFixAll>NetSpeedFixAll )
+
+int OptimizingWindowsOperatingSystem = 1;
+int OptimizingWindowsOperatingSystemShell = 1;
+int OptimizingWindowsOperatingSystemCore = 1;
+int OptimizingWindowsOperatingSystemStartMenu = 1;
+int OptimizingWindowsOperatingSystemToolbar = 1;
+int OptimizingWindowsOperatingSystemPerformance = 1;
+int OptimizingWindowsOperatingSystemApplications = 1;
+int OptimizingWindowsOperatingSystemApplicationsPerformance = 1;
+int OptimizingWindowsOperatingSystemApplicationsFramerate = 1;
+int OptimizingWindowsOperatingSystemApplicationsFPS = 1;
+int OptimizingWindowsOperatingSystemALL = 1;
+int OptimizingWindowsOperatingSystemApplicationsAll = 1;
+int WindowsOperatingSystemFixAll = 1;
+int WindowsOperatingSystemApplicationsFixAll = 1;
+int WindowsOperatingSystemExplorerFixAll = 1;
+int OptimizingWindowsOperatingSystemExplorerAll = 1;
+int WindowsOperatingSystemWizardFixAll = 1;
+int OptimizingWindowsOperatingSystemWizardAll = 1;
+public void DoWOS()
+{
+	WindowsOAround();
+	WindowsOSense();
+	WindowsOGeneration();
+}
+if(OptimizingWindowsOperatingSystem>OptimizingWindowsOperatingSystemShell>OptimizingWindowsOperatingSystemCore>OptimizingWindowsOperatingSystemStartMenu>OptimizingWindowsOperatingSystemToolbar )
+if(DoWos )
+if(OptimizingWindowsOperatingSystemPerformance )
+if(OptimizingWindowsOperatingSystemApplications>OptimizingWindowsOperatingSystemApplicationsPerformance>OptimizingWindowsOperatingSystemApplicationsFramerate>OptimizingWindowsOperatingSystemApplicationsFPS>OptimizingWindowsOperatingSystemALL>OptimizingWindowsOperatingSystemApplicationsAll )
+if(WindowsOperatingSystemFixAll>WindowsOperatingSystemApplicationsFixAll>WindowsOperatingSystemExplorerFixAll>OptimizingWindowsOperatingSystemExplorerAll>WindowsOperatingSystemWizardFixAll>OptimizingWindowsOperatingSystemWizardAll )
 //Compiler
 int sum = 0;
 int sum = 1;
