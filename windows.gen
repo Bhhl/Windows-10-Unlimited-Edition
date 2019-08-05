@@ -1,0 +1,18 @@
+int Gen = 1;
+int Genstep = 1;
+dim Genstep()
+{
+  GenLoadOut();
+}
+if(Gen->Genstep>GenLoadOut )
+
+int Windows = 1;
+int WindowsHightPerformance = 1;
+dim Windows()
+{
+ Windows
+}
+INT DIM Windows = 1;
+INT DIM Windows = 2;
+IF(Windows>WindowsHightPerformance )
+
