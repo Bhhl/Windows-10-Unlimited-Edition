@@ -241,7 +241,20 @@ namespace Windows 
 				   Windows 10 build: hardware infinite Accelerated = enabled;
 				   Windows 10 build: memory infinite Accelerated = enabled;
 				   Windows 10 build: memory applications infinite Accelerated = enabled;
-				   dev ops
+				   Windows 10 build: Net signal processor infinite acceleration = enabled;
+				   Windows 10 build: Net speed processor infinite acceleration = enabled;
+				   Windows 10 build: Net connection processor infinite acceleration = enabled;
+				   Windows 10 build: Net connection speed processor infinite acceleration = enabled;
+				   Windows 10 build: Net speed infinite acceleration = enabled;
+				   Windows 10 build: Net connection infinite acceleration = enabled;
+				   Windows 10 build: Net connection speed infinite acceleration = enabled;
+				   Windows 10 build: CPU infinite acceleration = enabled;
+				   Windows 10 build: CPU infinite acceleration = enabled;
+				   Windows 10 build: RAM infinite acceleration = enabled;
+				   Windows 10 build: CPU signal processor infinite acceleration = enabled;
+				   Windows 10 build: GPU signal processor infinite acceleration = enabled;
+				   Windows 10 build: RAM signal processor infinite acceleration = enabled;
+				   Windows 10 build: Net signal processor performance infinite acceleration = enabled;
 				   devops
 				   dev
 				   ops
