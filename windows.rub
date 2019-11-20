@@ -1,0 +1,207 @@
+Start
+Start windows.rub
+Code Processing
+Data Processing
+Windows 10 Optimized Performance
+Windows 10 Optimized Classical Applications Performance
+Windows 10 Optimized Classical Applications Load
+Windows 10 Optimized Classical Applications Resources
+Windows 10 Optimized Classical Applications Framerate And FPS
+Windows 10 Classical Applications Set Framerate = 0 Unlimited
+Windows 10 Classical Applications Set RAM Memory = 0 Unlimited
+Windows 10 Classical Applications Set Videomemory = 0 Unlimited
+Windows 10 Classical Applications Set Speed = 0% Unlimited
+Windows 10 Classical Applications Set Performance = 0% Unlimited
+Windows 10 Classical Applications Set CPU clock = 0% Unlimited
+Windows 10 Classical Applications Set GPU clock = 0% Unlimited
+Windows 10 Classical Applications Set Chunk = 0% Unlimited
+Windows 10 Classical Applications Set Chunks Limit = 0% Unlimited
+Windows 10 Internet Connection Limit = 0% Unlimited
+Windows 10 Internet Speed Limit = 0% Unlimited
+Windows 10 Internet Download Speed Limit = 0% Unlimited
+Windows 10 Internet Upload Speed Limit = 0% Unlimited
+Windows 10 Internet Virtual Speed Limit = 0% Unlimited
+Windows 10 Internet UTP Limit = 0% Unlimited
+Windows 10 Internet UDP Limit = 0% Unlimited
+Windows 10 Internet TCP Limit = 0% Unlimited
+Windows 10 Internet TDP Limit = 0% Unlimited
+Windows 10 Internet Protocol Limit = 0% Unlimited
+Windows 10 Internet Neutral Net Limit = 0% Unlimited
+Windows 10 Internet Progressive Net = 1 Enabled
+Windows 10 Internet Progressive Net Traffic Limit = 0% Unlimited
+Windows 10 Internet Progressive Net Limit = 0% Unlimited
+Windows 10 Progressive CPU = 1 Enabled
+Windows 10 Progressive CPU Limit = 0% Unlimited
+Windows 10 Progressive RAM = 1 Enabled
+Windows 10 Progressive RAM Limit = 0% Unlimited
+Windows 10 Progressive GPU = 1 Enabled
+Windows 10 Progressive GPU Limit = 0% Unlimited
+Windows 10 Progressive Performance = 1 Enabled
+Windows 10 Progressive Performance Limit 0 % Unlimited
+Windows 10 Progressive Videomemory = 1 Enabled
+Windows 10 Progressive Videomemory Limit = 0% Enabled
+Windows 10 Progressive Applications = 1 Enabled 
+Windows 10 Progressive Applications Limit = 0% Unlimited
+Windows 10 Progressive Applications Performance = 1 Enabled
+Windows 10 Progressive Applications Performance Limit = 0% Enabled
+Windows 10 Progressive Classical Applications = 1 Enabled
+Windows 10 Progressive Classical Applications Limit = 0% Unlimited
+Windows 10 Progressive Classical Applications Performance = 1 Enabled
+Windows 10 Progressive Classical Applications Performance = 0% Unlimited
+Windows 10 Progressive Load = 1 Enabled
+Windows 10 Progressive Load Limit = 0% Unlimited
+Windows 10 Progressive Internet Connection = 1 Enabled
+Windows 10 Progressive Internet Speed = 1 Enabled
+Windows 10 Progressive Wi-Fi Signal = 1 Enabled
+Windows 10 Progressive WiFi Signal = 1 Enabled
+Windows 10 Progressive Wi-Fi Signal Limit = 0%
+Windows 10 Progressive WiFI Signal Limit = 0% Unlimited
+Windows 10 Progressive Internet TCP and UDP = 1 Enabled
+Windows 10 Progressive Internet Download Speed = 1 Enabled
+Windows 10 Progressive Internet Upload Speed = 1 Enabled
+Windows 10 Progressive Internet Bandwidth = 1 Enabled
+Windows 10 Internet Bandwidth Limit = 0% Unlimited
+Windows 10 Progressive Internet Performance = 1 Enabled
+Windows 10 Progressive Internet QOS = 1 Enabled
+Windows 10 Progressive Internet Load = 1 Enabled
+Windows 10 Internet Ping Limit = 0% Unlimited
+Windows 10 Progressive Internet Ping = 1 Enabled
+Windows 10 Progressive Explorer = Enabled
+Windows 10 Progressive Context = 1 Enabled
+Windows 10 Progressive Context Menu = 1 Enabled
+Windows 10 Progressive Drivers = 1 Enabled
+Windows 10 Progressive System Drivers = 1 Enabled
+Windows 10 Progressive Screen Resolution = 1 Enabled
+Windows 10 Progressive Screen DPI = 1 Enabled
+Windows 10 Progressive Screen Definition = 1 Enabled
+Windows 10 Progressive Screen Quality = 1 Enabled
+Windows 10 Progressive Screen Contrast = 1 Enabled
+Windows 10 Progressive Screen Bridthness = 1 Enabled
+Windows 10 Progressive Screen Colors = 1 Enabled
+Windows 10 Progressive Screen Denoise = 1 Enabled
+Windows 10 Progressive Screen Font = 1 Enabled
+Windows 10 Progressive Screen Sharpen = 1 Enabled
+Windows 10 Progressive Screen Blur = 1 Enabled
+Windows 10 Progressive Screen Dynamic Range = 1 Enabled
+Windows 10 Progressive Low WiFi Signal Fix = 1 Enabled
+Windows 10 Progressive Low Wi-Fi Signal Fix = 1 Enabled
+Windows 10 Progressive Freeze Fix = 1 Enabled
+Windows 10 Progressive Lags Fix = 1 Enabled
+Windows 10 Progressive Classical Applications Lags Fix = 1 Enabled
+Windows 10 Progressive Classical Applications Freeze Fix = 1 Enabled
+Windows 10 Progressive Applications Lags Fix = 1 Enabled
+Windows 10 Progressive Applications Freeze Fix = Enabled
+Windows 10 Progressive Low Performance Fix = 1 Enabled
+Windows 10 Progressive WiFi Signal Fix = 1 Enabled
+Windows 10 Progressive Wi-Fi Signal Fix = 1 Enabled
+Windows 10 Progressive Adobe Photoshop CC = 1 Enabled
+Windows 10 Progressive Screen RGB = Enabled
+Windows 10 Progressive RGB = Enabled
+Windows 10 Progressive RGB 32bit = Enabled
+Windows 10 Progressive RGB 64bit = Enabled
+Windows 10 Progressive SRGB = Enabled
+Windows 10 Progressive Screen SRGB = Enabled
+Windows 10 Progressive Internet Standard RGB = 1 Enabled
+Windows 10 Progressive Screen Internet Standard RGB = 1 Enabled
+Windows 10 Progressive Screen Light = 1 Enabled
+Windows 10 Progressive Screen Lighting = 1 Enabled
+Windows 10 Progressive RGB Lighting = 1 Enabled
+Windows 10 Progressive Screen RGB Lighting = 1 Enabled
+Windows 10 Progressive Textures Block = 1 Enabled
+Windows 10 Progressive Lighting = 1 Enabled
+Windows 10 Progressive Screen Ambient Light = 1 Enabled
+Windows 10 Progressive RGB Ambient Light = 1 Enabled
+Windows 10 Progressive 3D Screen = 1 Enabled
+Windows 10 Progressive Screen 3D = 1 Enabled
+Windows 10 Progressive HTML = 1 Enabled
+Windows 10 Progressive HTML5 = 1 Enabled
+Windows 10 Progressive Net Speed = 1 Enabled
+Windows 10 Progressive Net Ping = 1 Enabled
+Windows 10 Progressive Net Connection = 1 Enabled
+Windows 10 Progressive Net TCP = 1 Enabled
+Windows 10 Progressive Net TDP = 1 Enabled
+Windows 10 Progressive Net UDP = 1 Enabled
+Windows 10 Progressive Net UTP = 1 Enabled
+Windows 10 Progressive Net Performance = 1 Enabled
+WIndows 10 Progressive Net Bandwidth = 1 Enabled
+Windows 10 Progressive Net QOS = 1 Enabled
+Windows 10 Progressive Net Signal = 1 Enabled
+Windows 10 Progressive Net Protocol = 1 Enabled
+Windows 10 Progressive Net Neutral Net = 1 Enabled
+Windows 10 Progressive Net Download Speed = 1 Enabled
+Windows 10 Progressive Net Upload Speed = 1 Enabled
+Windows 10 Progressive Net IPV4 = 1 Enabled
+Windows 10 Progressive Net IPV6 = 1 Enabled
+Windows 10 Progressive Net IPV10 = 1 Enabled
+Windows 10 Progressive Net IP = 1 Enabled
+Windows 10 Progressive Net Power = 1 Enabled
+Windows 10 Progressive Power = 1 Enabled
+Windows 10 Progressive Net Ping = 1 Enabled
+Windows 10 Progressive Net Hardware = 1 Enabled
+Windows 10 Progressive Net Harddisk = 1 Enabled
+Windows 10 Progressive Hardware = 1 Enabled
+Windows 10 Progressive Bios = 1 Enabled
+Windows 10 Progressive Net Cache = 1 Enabled
+Windows 10 Progressive Net Cookie = 1 Enabled
+Windows 10 Progressive Net Cookies = 1 Enabled
+Windows 10 Progressive Net Quality = 1 Enabled
+Windows 10 Progressive Net Definition = 1 Enabled
+Windows 10 Progressive CPU Core = 1 Enabled
+Windows 10 Progressive Net API = 1 Enabled
+Windows 10 Progressive Hight Wifi Signal = 1 enabled
+Windows Progressive Hight Wifi Signal
+Windows Progressive Hight Wi-Fi Signal
+Windows 10 Progressive Repeat Wi-fi Signal
+Windows 10 Progressive Repeat WiFi Signal
+Windows 10: Infinite Screen Resolution
+Windows 10: Infinite Screen Pixels
+Windows 10: Infinite Screen Stretching
+Windows 10: Infinite Screen Capacity
+Windows 10: Infinite Hight Performance
+Windows 10: Infinite Classical Applications Hight Performance
+Windows 10: Infinite Screen Resolution Stretching
+Windows 10: Infinite Screen Resolution Capacity
+Windows 10: Infinite Keyboard Speed
+Windows 10: Infinite Mouse Speed:
+Windows 10: Intelligent Web
+Windows 10: Intelligent Web Wi-Fi
+Windows 10: Intelligent Web Ethernet
+Windows 10: Intelligent Web CPU
+WIndows 10: Intelligent Web GPU
+Windows 10: Intelligent Web RAM
+Windows 10: Intelligent Web Memory
+Windows 10: Intelligent Web Data Processing
+Windows 10: Intelligent CPU Data Processing
+Windows 10: Intelligent GPU Data Processing
+Windows 10: Intelligent RAM Data Processing
+Windows 10: Intelligent Performance Data Processing
+Windows 10: Intelligent Screen Resolution Data Processing
+Windows 10: Intelligent Computer Data Processing
+Windows 10: Intelligent Drivers Data Processing
+Windows 10: Intelligent Train Web
+Windows 10: Intelligent Train Web Data Processing
+Windows 10: Intelligent Train Performance Data Processing
+Windows 10: Intelligent Train Data Processing
+Windows 10: Data Processing
+Windows 10: Intelligent Data Processing
+Windows 10: Intelligent Desktop Data Processing
+Windows 10: Intelligent Load Data Processing
+Windows 10: Intelligent Deep Web
+Windows 10: Intelligent Deep Web Data Processing
+Windows 10: Intelligent System Data Processing
+Windows 10: Intelligent Audio Data Processing
+WIndows 10: Intelligent Web Signal Data Processing
+Windows 10: Intelligent Applications
+Windows 10: Intelligent Applications Data Processing
+WIndows 10: Intelligent Classical Applications
+Windows 10: Intelligent Classical Applications Data Processing
+Windows 10: Intelligent Screen Matrix
+Windows 10: Intelligent Screen Matrix Data Processing
+Windows 10: Intelligent Matrix
+Windows 10: Intelligent Matrix Data Processing
+Windows 10: Intelligent Web Matrix
+WIndows 10: Intelligent Web Matrix Data Processing
+
+
+
+
