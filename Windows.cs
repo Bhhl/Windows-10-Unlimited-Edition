@@ -335,3 +335,6 @@ using Move;
 ///Windows System Ethernet optimized
 ///Windows System Net bandwidth optimized
 ///Windows System Net signal optimized
+///Windows System TpLink adapter optimized
+///Windows System Net adapter optimized
+///Windows System Net adapter driver optimized
