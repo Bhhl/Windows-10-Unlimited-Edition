@@ -323,3 +323,5 @@ using Move;
 ///Windows System Runtime optimized
 ///Windows Web optimized
 ///Windows Web UI optimized
+///Windows Net optimized
+///Windows System Net optimized
