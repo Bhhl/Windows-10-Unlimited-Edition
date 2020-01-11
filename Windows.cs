@@ -325,3 +325,13 @@ using Move;
 ///Windows Web UI optimized
 ///Windows Net optimized
 ///Windows System Net optimized
+///Windows System Net speed optimized
+///Windows System Net transfer rate optimized
+///Windows System Net connection optimized
+///Windows System Net rate optimized
+///Windows System toolBar optimized
+///Windows System startMenu optimized
+///Windows System WiFi optimized
+///Windows System Ethernet optimized
+///Windows System Net bandwidth optimized
+///Windows System Net signal optimized
