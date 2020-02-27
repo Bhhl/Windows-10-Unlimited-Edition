@@ -18,4 +18,7 @@ Internet_connection_speed ("Internet connection speed") ("Интернет ск�
 Internet_connection_speed_optimized ("Internet connection speed optimized)" ("Интернет скорость соединения оптимизирована") = enabled ("enabled") ("включено")
 Internet_auto_boost_speed ("Internet auto boost speed") ("Internet автоповышение скорости") = enabled ("enabled") ("включено")
 Internet_auto_ping_downgrade ("Internet auto ping downgrade") ("Интернет автопонижение пинга") = enabled ("enabled") ("включено")
-
+Internet_auto_connect_to_fast_servers ("Internet auto connect to fast servers") ("Интернет автоподключение к быстрым серверам") = enabled ("enabled") ("включено")
+Internet_auto_connect_to_fast_clients ("Internet auto connect to fast clients") ("Интернет автоподключение к быстрым клиентам") = enabled ("enabled") ("включено")
+Internet_auto_connect_to_stable_servers ("Internet auto-connect to stable servers") ("Интернет автоподключение к стабильным серверам") = enabled ("enabled") ("включено")
+Internet_auto_connect_to_stable_clients ("Internet auto_connect to stable clients") ("Интернет автоподключение к стабильным клиентам") = enabled ("enabled") ("включено")
