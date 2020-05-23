@@ -88,5 +88,6 @@ auto_clean_gpu = activated:
 #define GENOME_GPU = 1 // High performance for GPU = 1 [1 enabled] [0 disabled] ]
 #define GENOME_NET = 1 // High performance for NET = 1 [1 enabled] [0 disabled] ]
 #define NO_LOAD_NET = 1 // Disable hight Net load using = 1 [1 enabled] [0 disabled] ]
+#define LO_LOAD_EXPLORER = 1 //Disable high Windows explorer load using = 1 [1 enabled [0 disabled] ]
 
 
